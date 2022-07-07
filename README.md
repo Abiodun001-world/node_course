@@ -23,7 +23,7 @@ console.dir(ys);
 ***
 
 ```
-[ 0.9, 1, 1.1, 2.9, 7, 3.1, 4.9, 5, 5.1 ]
+[ 0.9, 1, 1.1, 2.9, 3, 3.1, 4.9, 5, 5.1 ]
 ```
 
 methods
@@ -63,3 +63,7 @@ notes
 This module was written while sitting high above the ground in a tree.
 Aptlearn.com 
 Learning Everything About Node.js
+
+
+
+
